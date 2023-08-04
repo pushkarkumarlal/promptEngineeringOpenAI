@@ -1,2 +1,2 @@
 # promptEngineeringOpenAI
-Examples and codes to do Promet Engineering fro opwnAI in most efficinet way 
+Examples and codes to do Prompt-Engineering for opwnAI in most efficinet way 
